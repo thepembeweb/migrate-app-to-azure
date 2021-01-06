@@ -1,5 +1,11 @@
 # TechConf Registration Website
 
+> The TechConf website allows attendees to register for an upcoming conference. Administrators can also view the list of attendees and notify all attendees via a personalized email message.
+
+![](azure-postgres-python.png)
+
+![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)
+
 ## Project Overview
 The TechConf website allows attendees to register for an upcoming conference. Administrators can also view the list of attendees and notify all attendees via a personalized email message.
 
